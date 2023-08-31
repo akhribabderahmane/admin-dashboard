@@ -20,7 +20,7 @@ function App() {
        <main className='content overflow-y-scroll'>
         <Topbar />
         <Routes>
-         <Route path='/' element={<Dashboard />} />
+         <Route path='*' element={<Dashboard />} />
          <Route path='/team' element={<Team />} />
          <Route path='/pie' element={<Pie />} />
          <Route path='/line' element={<Line />} />
