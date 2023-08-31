@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/admin-dashboard/static/css/main.8400b4cd.css",
+    "main.js": "/admin-dashboard/static/js/main.69b6a46e.js",
+    "static/media/akhrib.png": "/admin-dashboard/static/media/akhrib.659fdf750d59e895ee4d.png",
+    "index.html": "/admin-dashboard/index.html",
+    "main.8400b4cd.css.map": "/admin-dashboard/static/css/main.8400b4cd.css.map",
+    "main.69b6a46e.js.map": "/admin-dashboard/static/js/main.69b6a46e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8400b4cd.css",
+    "static/js/main.69b6a46e.js"
+  ]
+}
